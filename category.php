@@ -269,28 +269,28 @@
             <div class="aside-block">
               <h3 class="aside-title">Categories</h3>
               <ul class="aside-links list-unstyled">
-                <li><a href="category.html"><i class="bi bi-chevron-right"></i> Business</a></li>
-                <li><a href="category.html"><i class="bi bi-chevron-right"></i> Culture</a></li>
-                <li><a href="category.html"><i class="bi bi-chevron-right"></i> Sport</a></li>
-                <li><a href="category.html"><i class="bi bi-chevron-right"></i> Food</a></li>
-                <li><a href="category.html"><i class="bi bi-chevron-right"></i> Politics</a></li>
-                <li><a href="category.html"><i class="bi bi-chevron-right"></i> Celebrity</a></li>
-                <li><a href="category.html"><i class="bi bi-chevron-right"></i> Startups</a></li>
-                <li><a href="category.html"><i class="bi bi-chevron-right"></i> Travel</a></li>
+                <li><a href="category.php"><i class="bi bi-chevron-right"></i> Business</a></li>
+                <li><a href="category.php"><i class="bi bi-chevron-right"></i> Culture</a></li>
+                <li><a href="category.php"><i class="bi bi-chevron-right"></i> Sport</a></li>
+                <li><a href="category.php"><i class="bi bi-chevron-right"></i> Food</a></li>
+                <li><a href="category.php"><i class="bi bi-chevron-right"></i> Politics</a></li>
+                <li><a href="category.php"><i class="bi bi-chevron-right"></i> Celebrity</a></li>
+                <li><a href="category.php"><i class="bi bi-chevron-right"></i> Startups</a></li>
+                <li><a href="category.php"><i class="bi bi-chevron-right"></i> Travel</a></li>
               </ul>
             </div><!-- End Categories -->
 
             <div class="aside-block">
               <h3 class="aside-title">Tags</h3>
               <ul class="aside-tags list-unstyled">
-                <li><a href="category.html">Business</a></li>
-                <li><a href="category.html">Culture</a></li>
-                <li><a href="category.html">Sport</a></li>
-                <li><a href="category.html">Food</a></li>
-                <li><a href="category.html">Politics</a></li>
-                <li><a href="category.html">Celebrity</a></li>
-                <li><a href="category.html">Startups</a></li>
-                <li><a href="category.html">Travel</a></li>
+                <li><a href="category.php">Business</a></li>
+                <li><a href="category.php">Culture</a></li>
+                <li><a href="category.php">Sport</a></li>
+                <li><a href="category.php">Food</a></li>
+                <li><a href="category.php">Politics</a></li>
+                <li><a href="category.php">Celebrity</a></li>
+                <li><a href="category.php">Startups</a></li>
+                <li><a href="category.php">Travel</a></li>
               </ul>
             </div><!-- End Tags -->
 
@@ -300,9 +300,9 @@
       </div>
     </section>
   </main><!-- End #main -->
+
   <!-- Including footer from include folder -->
   <?php include("./include/footer.php"); ?>
-
 
   <!-- Scroll to top button -->
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>

@@ -11,7 +11,12 @@
         <ul>
           <li><a href="index.php">Blog</a></li>
           <li><a href="single-post.php">Single Post</a></li>
-          <li class="dropdown"><a href="category.php">Search Result</a></li>
+          <li class="dropdown"><a href="category.php"><span>Categories</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <ul>
+              <li><a href="search-result.php">Search Result</a></li>
+            </ul>
+          </li>
+
           <li><a href="about.php">About</a></li>
           <li><a href="contact.php">Contact</a></li>
         </ul>
