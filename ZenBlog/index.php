@@ -3,7 +3,7 @@
 
 <head>
   <title>ZenBlog Bootstrap Template - Index</title>
-
+  <!-- All the links included -->
   <?php include("./include/links.php");?>
 
 </head>
