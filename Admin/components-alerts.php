@@ -307,13 +307,13 @@
 
   <!-- including footer from include folder -->
   <?php include("./include/footer.php"); ?>
-  
+
   <!-- Scroll to top button -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
-    <!-- Inlcuding Script files from include folder -->
-    <?php include("./include/script.php"); ?>
+  <!-- Inlcuding Script files from include folder -->
+  <?php include("./include/script.php"); ?>
 </body>
 
 </html>
